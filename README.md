@@ -9,3 +9,4 @@ Mainly:
 * A codec trait
 * Codec trait implementation for IPv4 and IPv6
 
+Docs: https://crates.io/crates/bufmut-netext
